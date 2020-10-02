@@ -1,6 +1,10 @@
 # Gradle Processing Template
 A very basic Gradle &amp; Processing template to be used with IntelliJ.
 
+### Quick Start
+
+Just [generate](https://github.com/cansik/gradle-processing-template/generate) a new repository!
+
 ### Code
 
 The project contains a `Sketch.java` class which contains the three basic Processing methods:
